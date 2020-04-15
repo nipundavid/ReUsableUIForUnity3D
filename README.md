@@ -1,8 +1,7 @@
 # ReUsableUIForUnity3D
 A reusable framework that can enable quick prototyping of UI screens in Unity3D
-#### Demo Link - https://youtu.be/DN2In2v0xIY
 
-
+[![](https://media.giphy.com/media/gHEwwK1ubjOoX0Rj26/giphy.gif)](https://youtu.be/DN2In2v0xIY)
 
 ## Need
 While working on a Unity3D project, one of the challenge is desigining UI screens and then writing clean code that enables switching from one screen to another easy while developing.
