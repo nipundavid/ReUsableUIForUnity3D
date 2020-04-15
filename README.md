@@ -5,7 +5,7 @@ A reusable framework that can enable quick prototyping of UI screens in Unity3D
 
 
 ## Need
-While woring on a Unity3D project, we face a challenge of desiginig UI screens and then writing clean code that enables switching from one screen to another easy while developing.
+While working on a Unity3D project, one of the challenge is desigining UI screens and then writing clean code that enables switching from one screen to another easy while developing.
 
 ## Pain Points
 When creating a base framework the code should be written in such a way that if a designer or a junior developer takes up the project they do not make  code highly coupled which often happend and then a lot of code refactoring is required when a new feature is requested from the client.
